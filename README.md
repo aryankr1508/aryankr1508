@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img align="left" alt="aryan kumar facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<a href="https://medium.com/@/aryankr1508">
+<a href="https://medium.com/@aryankr1508">
 <img align="left" alt="aryan kumar medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
