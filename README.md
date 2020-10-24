@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in//aryankr1508/">
 <img align="left" alt="aryan kumar LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/r/aryankr1508/">
+<a href="https://www.instagram.com/aryankr1508/">
 <img align="left" alt="aryan kumar Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com//aryankr1508">
