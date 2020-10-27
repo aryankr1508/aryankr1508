@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 **My Intro ..**
 
-Hello visitors, I'm Aryan Kumar. 🚀 I am from Delhi, India. Currently pursuing Computer Science Engineering from 🏫Vellore Institite of Technology. Tech enthusiasts and my keen interest are on IoT, Voice Technology like Alexa and Google Assistant, and Python.
+Myself  Aryan Kumar. 🚀 I am from Delhi, India. Currently pursuing Computer Science Engineering from 🏫Vellore Institite of Technology. I'm an AI enthusiasts and my keen interest are on IoT, Voice Technology like Alexa and Google Assistant, and Python.
 **🌱 I'm currently learning ...**
 - 🎇 Python with module and packages
 - 🎇 Iot and Embedded System
