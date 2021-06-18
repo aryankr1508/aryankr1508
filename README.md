@@ -37,7 +37,13 @@ Here are some ideas to get you started:
 
 **My Intro ..**
 
-Myself  Aryan Kumar. 🚀 I am from Delhi, India. Currently pursuing Computer Science Engineering from 🏫Vellore Institite of Technology. I'm an AI enthusiast and my keen interest are on IoT, Voice Technology like Alexa and Google Assistant, and Python.
+Myself  Aryan Kumar. 🚀 I am from Delhi, India.
+Currently pursuing Computer Science Engineering from Vellore Institute of Technology.
+Keen interests are on Mobile App Development, Web Development & Cloud Computing.
+Designed and launched a website for a startup company named SOYOC.
+Developed an android app named DATA PHOENIX using Java & XML, which takes information of users as its input and then automatically saves them in the database for the future reference.
+Completed both the tracks of "30 days of Google Cloud" and keen to study more on Google Cloud Computing, Amazon Web Services and Voice Technology like Alexa and Google Assistant.
+Blog in medium on "Using Covid-19 API in Python"
 **🌱 I'm currently learning ...**
 - 🎇 Python with module and packages
 - 🎇 Iot and Embedded System
