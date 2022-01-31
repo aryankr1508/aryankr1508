@@ -51,11 +51,32 @@ Blog in medium on "Using Covid-19 API in Python"
 - 🎇 Advance Voice Tech in NLP
 - 🎇 Microsoft Services like Azure and PowerApps
 
-**Languages and Tools ...**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<h1><b>Tools & Technologies</b></h1> 
+   
+  
+   <img src="https://img.icons8.com/color/40/000000/android-studio--v3.png"/>
+   
+   <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png"/>
+   
+   <img src="https://img.icons8.com/fluency/40/000000/python.png"/>
+   
+   <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
+   
+   <img src="https://img.icons8.com/color/40/000000/git.png"/>
+   
+   <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
+   
+   <img src="https://img.icons8.com/color/40/000000/linux--v1.png"/>
+   
+   <img src="https://img.icons8.com/fluency/40/000000/chatbot.png"/>
+   
+   <img src="https://img.icons8.com/color/40/000000/html-5--v2.png"/>
+   
+   <img src="https://img.icons8.com/color/40/000000/css3.png"/>
+   
+   <img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>
+   
+   
 - 📫 How to reach me:aryankumar15082002@gmail.com
 
 ![Aryan Kumar Github Stats](https://github-readme-stats.vercel.app/api?username=aryankr1508&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
