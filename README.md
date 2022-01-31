@@ -14,22 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href = "https://aryankr1508.netlify.app/">
+  <img src="https://img.icons8.com/color/48/000000/domain--v1.png"/>
+</a>
 <a href="https://twitter.com/aryankr1508">
-<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img "https://img.icons8.com/color/344/twitter--v1.png" />
 </a>
 <a href="https://www.linkedin.com/in//aryankr1508/">
-<img align="left" alt="aryan kumar LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/aryankr1508/">
-<img align="left" alt="aryan kumar Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+
 </a>
 <a href="https://www.facebook.com//aryankr1508">
-<img align="left" alt="aryan kumar facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+<img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 
 <a href="https://medium.com/@aryankr1508">
-<img align="left" alt="aryan kumar medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<img src="https://play-lh.googleusercontent.com/CyCfSIDF_vVtSiyHi1H47HZtfE2e_-4UVGtoT8zX9ym8GIRcTOhBknPIvadrQUMp2Q" width = "85px" />
 </a>
 
 <br >
