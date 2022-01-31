@@ -18,8 +18,9 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/domain--v1.png"/>
 </a>
 <a href="https://twitter.com/aryankr1508">
-<img "https://img.icons8.com/color/344/twitter--v1.png" />
+<img "https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
 </a>
+
 <a href="https://www.linkedin.com/in//aryankr1508/">
 <img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/aryankr1508/">
