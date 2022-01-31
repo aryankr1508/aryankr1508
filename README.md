@@ -51,10 +51,9 @@ Blog in medium on "Using Covid-19 API in Python"
 - 🎇 Advance Voice Tech in NLP
 - 🎇 Microsoft Services like Azure and PowerApps
 
-<h1><b>Tools & Technologies</b></h1> 
-   
-  
-   <img src="https://img.icons8.com/color/40/000000/android-studio--v3.png"/>
+**Tools And Technologies**
+<li>
+ <img src="https://img.icons8.com/color/40/000000/android-studio--v3.png"/>
    
    <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png"/>
    
@@ -75,7 +74,7 @@ Blog in medium on "Using Covid-19 API in Python"
    <img src="https://img.icons8.com/color/40/000000/css3.png"/>
    
    <img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>
-   
+   </li>
    
 - 📫 How to reach me:aryankumar15082002@gmail.com
 
