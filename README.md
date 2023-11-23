@@ -39,19 +39,37 @@ Here are some ideas to get you started:
 
 **My Intro ..**
 
-Myself  Aryan Kumar. 🚀 I am from Delhi, India.
-Currently pursuing Computer Science Engineering from Vellore Institute of Technology.
-Keen interests are on Mobile App Development, Web Development & Cloud Computing.
-Designed and launched a website for a startup company named SOYOC.
-Developed an android app named DATA PHOENIX using Java & XML, which takes information of users as its input and then automatically saves them in the database for the future reference.
-Completed both the tracks of "30 days of Google Cloud" and keen to study more on Google Cloud Computing, Amazon Web Services and Voice Technology like Alexa and Google Assistant.
-Blog in medium on "Using Covid-19 API in Python"
-**🌱 I'm currently learning ...**
-- 🎇 Python with module and packages
-- 🎇 Iot and Embedded System
-- 🎇 Git and GitHub
-- 🎇 Advance Voice Tech in NLP
-- 🎇 Microsoft Services like Azure and PowerApps
+I'm Aryan Kumar, a Full-Stack Developer passionate about crafting innovative solutions. Currently developing at [PropVIVO](https://www.propvivo.com/) and exploring the realms of technology.
+
+### 🚀 Experience
+
+**PropVIVO | Full Stack Developer | Sep 2023 - Present**
+- Working on .NET Core, AngularJS, C#, Azure Cosmos DB, and React.js
+- Contributing to Full-Stack development and T-SQL tasks.
+
+**Intern at PropVIVO | Mar 2023 - Aug 2023**
+- Developed a robust backend system, created .NET APIs, implemented stored procedures.
+- Tech Stack: Dot Net Framework, C#, ReactJS, Cosmos DB, SQL.
+- Role: Full Stack Developer.
+
+**Internship Trainee at JTP Co. Ltd. | Feb 2023 - Mar 2023**
+- Worked remotely on IoT, AI, and Machine Learning projects.
+- Developed strong presentation skills.
+
+**Full Stack Developer at Cureya | Apr 2022 - Jun 2022**
+- Led a team of 8 members, developed a live healthcare website.
+- Tech Stack: HTML, CSS, JavaScript, Bootstrap, PHP, Node.js, React.js.
+
+  
+### 🌱 Currently Learning
+
+- Python with modules and packages.
+- IoT and Embedded Systems.
+- Git and GitHub.
+- Advanced Voice Tech in NLP.
+- Microsoft Services like Azure and PowerApps.
+- Azure Communication Services and Cognitive Services.
+- Node.js.
 
 **Tools And Technologies**
 <li>
